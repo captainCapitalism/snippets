@@ -1,0 +1,1 @@
+This is collection of snippets/scripts that I found useful/interesting.
